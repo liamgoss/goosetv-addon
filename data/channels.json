@@ -1,0 +1,8 @@
+[
+    {
+        "id": "goose:local3news",
+        "name": "Local 3 News (Live)",
+        "poster": "http://192.168.1.186:7002/posters/local3_poster.png",
+        "description": "Watch Chattanooga Local 3 News live, 24/7."
+    }
+]
